@@ -5,7 +5,7 @@ from simple_facerec import SimpleFacerec
 #Encode faces from images folder
 
 sfr = SimpleFacerec()
-sfr.load_encoding_images("images/")
+sfr.load_encoding_images("Images/")
 
 #Load Camera
 cap = cv2.VideoCapture(0)
