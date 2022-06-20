@@ -33,4 +33,3 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-#https://www.youtube.com/watch?v=5yPeKQzCPdI
